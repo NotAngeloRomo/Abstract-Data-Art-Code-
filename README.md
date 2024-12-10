@@ -29,14 +29,10 @@ UML Diagram
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
 
 
-![alt text](image.png)
+![UML](image.png)
 
 Description
 Sometimes visualizations are charts or graphs, and other times they are more abstract pieces of art. Your goal is to create a visual representation relating at least two categories from your dataset that engages your viewer and encourages them to learn more about your chosen topic. 
-[
-    
 ](<Screen recording 2024-12-10 10.22.53 AM.webm>)
 
-![
-    
-](<Screenshot 2024-12-10 10.47.11 AM.png>)
+[Video](<Screen recording 2024-12-10 10.22.53 AM.webm>) 
